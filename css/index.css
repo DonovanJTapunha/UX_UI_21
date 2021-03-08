@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Roboto:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+
+
+.herotitle{
+    
+    background: url("../images/MFHHeroShot.png")  left no-repeat;
+    background-size: cover;   
+}
+
+ .hero-text {
+    justify-items: left;
+    color:white;
+}
+
+ .introduction{
+    background: none !important;
+    border: none !important;  
+}
+
+.introduction p{
+    color: white;
+}
+.projectOverview{
+    background-color: white;
+}
+.projectOverview .card {
+    background-color: white;
+    border: none !important; 
+
+}
+.projectOverview .card h1{
+    font-family: "roboto", sans-serif;
+    font-size: 60px;
+    font-weight: 900;
+    
+
+}
+.projectOverview .card h2{
+    font-family: "roboto", sans-serif;
+    font-size: 25px;
+    font-weight: 900;
+    color: #5B9FAD;
+
+}
+.projectOverview .card p{
+    font-family: "inter", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    justify-content: left;
+
+}
+
+
+
+/* .title .content h1{
+    font-family: "roboto", sans-serif;
+    font-size: 114px;
+    font-weight: 700;
+    
+}
+.title .content h2{
+    font-family: "inter", sans-serif;
+    font-size: 74px;
+    font-weight: 400;
+    color: red;
+    border: black;
+}
+.title .content p{
+    font-family: "inter", sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    color: black;
+    text-align: left;
+    padding: 18px 0px 0 0px; */
