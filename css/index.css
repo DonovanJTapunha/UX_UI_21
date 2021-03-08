@@ -3,16 +3,33 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter&family=Roboto:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
 
+.navbar-brand img{
+    height: 50px;
+    width: 50px;
+}
 
 .herotitle{
     
-    background: url("../images/MFHHeroShot.png")  left no-repeat;
-    background-size: cover;   
+    background: url("../images/Tadpoles-of-IC-410-Trevor-Jones.jpg")  
+    no-repeat;
+    background-size: cover; 
+    align-content: center;
 }
 
- .hero-text {
-    justify-items: left;
+
+ .herotitle .card-title {
+    
     color:white;
+    font-family: "roboto", sans-serif;
+    font-size: 60px !important;
+    font-weight: 900 !important;
+   
+}
+
+.herotitle img{
+    height: 50px;
+    width: 50px;
+    
 }
 
  .introduction{
